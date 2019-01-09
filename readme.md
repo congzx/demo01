@@ -3,7 +3,8 @@
 ## hello git
 
 - added at 20190106 13:08
-- added at 20190106 13:11
+- edit at 20190106 13:14
+- added at 20190106 13:14
 
 ## hello github
 
